@@ -1,1 +1,1 @@
-# project one, deep learning
+#  Write a class to calculate Maximum Likelihood Estimator for 1D Gaussian Distribution
